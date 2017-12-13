@@ -1,4 +1,4 @@
-# Machine Learning Workshop#
+# Machine Learning Workshop
 
 This is a Machine Learning Workshop for complete beginners. 
 The talker can teach the basics using the analysis/gamesalesanalysis.ipnyb, and propose for the participants to try and do the same with the titanic dataset. 
